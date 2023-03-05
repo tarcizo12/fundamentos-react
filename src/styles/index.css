@@ -1,3 +1,12 @@
 body{
     background-color: white;
 }
+
+.Poem{
+    width: 11em;      
+    background-color: lightblue;       
+    border: 2px solid black;      
+    padding: 10px;      
+    word-wrap: break-word;      
+    font-size: 20px;    
+}
